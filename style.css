@@ -1,0 +1,26 @@
+#areadecadastro{
+    background-color:lightpink;
+    width:400px;
+    height:550px;
+    border-radius:10px;
+}
+body{
+    background-color: aqua;
+}
+#usuario{
+    position: absolute;
+    bottom:500px;
+}
+#senha{
+    position: absolute;
+    top:225px;
+}
+#cadastro{
+    position: absolute;
+    bottom:200px;
+}
+#login{
+    position: absolute;
+    bottom: 200px;
+    left:80px;
+}
